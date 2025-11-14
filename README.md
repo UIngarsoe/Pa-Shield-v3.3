@@ -16,3 +16,5 @@ MYANMAR CIVIL TECH KNOWLEDGE CORE (CCTM)
 from core import CCTM_PACKET, CCTM_HASH  # ← Updated
 import base64, json
 data = json.loads(base64.b64decode(CCTM_PACKET))
+## Academic Papers
+- [From Battlefield to Ballot Box](papers/khin-yi-analysis.md) (Nov 2025)
